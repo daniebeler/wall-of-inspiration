@@ -24,6 +24,18 @@ export default function Home() {
           );
         })}
       </div>
+
+      <h2 className="mt-32 mb-32 text-center text-xl md:text-2xl">
+        Made by{" "}
+        <a
+          href="https://daniebeler.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline"
+        >
+          Daniel Hiebeler
+        </a>
+      </h2>
     </main>
   );
 }
