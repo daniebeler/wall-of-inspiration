@@ -12,7 +12,7 @@ export default function Home() {
               rel="noopener noreferrer"
               href={item.url}
               key={item.url}
-              className="w-full h-full relative aspect-[1920/1080] cursor-pointer"
+              className="w-full h-full relative aspect-[4/3] cursor-pointer"
             >
               <Image
                 src={"/images/" + item.img}
