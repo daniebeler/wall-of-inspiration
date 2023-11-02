@@ -1,81 +1,82 @@
 {
-    "data": {
-      "items": [
-        {
-          "url": "https://moosync.app/",
-          "img": "moosync.png"
-          
-        },
-        {
-          "url": "https://www.bryntaylor.co.uk/",
-          "img": "bryntaylor.png"
-          
-        },
-        {
-          "url": "https://nilay.design/",
-          "img": "nilay.png"
-          
-        },
-        {
-          "url": "https://mikkonuuttila.com/",
-          "img": "mikkonuuttila.png"
-          
-        },
-        {
-          "url": "https://www.danielspatzek.com",
-          "img": "danielspatzek.png"
-          
-        },
-        {
-          "url": "https://www.supremo.co.uk/",
-          "img": "supremo.png"
-          
-        },
-        {
-          "url": "https://www.simonfosters.website/",
-          "img": "simonfoster.png"
-          
-        },
-        {
-          "url": "https://bruno-simon.com/",
-          "img": "brunosimon.png"
-          
-        },
-        {
-          "url": "https://madbox.io/",
-          "img": "madbox.png"
-          
-        },
-        {
-          "url": "https://www.easyeats.io/",
-          "img": "easyeats.png"
-          
-        },
-        {
-          "url": "https://dennissnellenberg.com/",
-          "img": "dennissnellenberg.png"
-          
-        },
-        {
-          "url": "https://sharobella.com/",
-          "img": "sharobella.png"
-          
-        },
-        {
-          "url": "https://kentcdodds.com/",
-          "img": "kentcdodds.png"
-          
-        },
-        {
-          "url": "https://welovedaily.com/",
-          "img": "welovedaily.png"
-          
-        },
-        {
-          "url": "https://www.seanhalpin.xyz/",
-          "img": "seanhalpin.png"
-          
-        }
-      ]
-    }
+  "data": {
+    "items": [
+      {
+        "url": "https://moosync.app/",
+        "img": "moosync.png"
+      },
+      {
+        "url": "https://www.bryntaylor.co.uk/",
+        "img": "bryntaylor.png"
+      },
+      {
+        "url": "https://draculatheme.com/",
+        "img": "dracula.png"
+      },
+      {
+        "url": "https://nilay.design/",
+        "img": "nilay.png"
+      },
+      {
+        "url": "https://www.vantajs.com/",
+        "img": "vantajs.png"
+      },
+      {
+        "url": "https://mikkonuuttila.com/",
+        "img": "mikkonuuttila.png"
+      },
+      {
+        "url": "https://www.danielspatzek.com",
+        "img": "danielspatzek.png"
+      },
+      {
+        "url": "https://www.supremo.co.uk/",
+        "img": "supremo.png"
+      },
+      {
+        "url": "https://www.simonfosters.website/",
+        "img": "simonfoster.png"
+      },
+      {
+        "url": "https://bruno-simon.com/",
+        "img": "brunosimon.png"
+      },
+      {
+        "url": "https://madbox.io/",
+        "img": "madbox.png"
+      },
+      {
+        "url": "https://www.easyeats.io/",
+        "img": "easyeats.png"
+      },
+      {
+        "url": "https://dennissnellenberg.com/",
+        "img": "dennissnellenberg.png"
+      },
+      {
+        "url": "https://sharobella.com/",
+        "img": "sharobella.png"
+      },
+      {
+        "url": "https://kentcdodds.com/",
+        "img": "kentcdodds.png"
+      },
+      {
+        "url": "https://welovedaily.com/",
+        "img": "welovedaily.png"
+      },
+      {
+        "url": "https://www.seanhalpin.xyz/",
+        "img": "seanhalpin.png"
+      },
+      {
+        "url": "https://www.marcomarino.design/",
+        "img": "marcomarino.png"
+      },
+      {
+        "url": "https://minhpham.design/",
+        "img": "minhpham.png"
+      }
+    ]
   }
+}
