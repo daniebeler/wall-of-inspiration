@@ -4,7 +4,7 @@ import data from "./data/data.json";
 export default function Home() {
   return (
     <main className="">
-      <div className="grid grid-cols-3">
+      <div className="grid grid-cols-2 md:grid-cols-3">
         {data.data.items.map((item: any) => {
           return (
             <a

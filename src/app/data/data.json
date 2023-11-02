@@ -47,8 +47,33 @@
           
         },
         {
-          "url": "https://mikkonuuttila.com/",
-          "img": "mikkonuuttila.png"
+          "url": "https://www.easyeats.io/",
+          "img": "easyeats.png"
+          
+        },
+        {
+          "url": "https://dennissnellenberg.com/",
+          "img": "dennissnellenberg.png"
+          
+        },
+        {
+          "url": "https://sharobella.com/",
+          "img": "sharobella.png"
+          
+        },
+        {
+          "url": "https://kentcdodds.com/",
+          "img": "kentcdodds.png"
+          
+        },
+        {
+          "url": "https://welovedaily.com/",
+          "img": "welovedaily.png"
+          
+        },
+        {
+          "url": "https://www.seanhalpin.xyz/",
+          "img": "seanhalpin.png"
           
         }
       ]
