@@ -1,4 +1,3 @@
-import { NextPageContext } from "next";
 import Image from "next/image";
 import data from "./data/data.json";
 
@@ -13,7 +12,7 @@ export default function Home() {
               rel="noopener noreferrer"
               href={item.url}
               key={item.url}
-              className="bg-red-500 w-full h-full relative aspect-[1920/1080] cursor-pointer hover:scale-105"
+              className="w-full h-full relative aspect-[1920/1080] cursor-pointer"
             >
               <Image
                 src={"/images/" + item.img}
