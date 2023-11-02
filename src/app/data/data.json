@@ -76,6 +76,42 @@
       {
         "url": "https://minhpham.design/",
         "img": "minhpham.png"
+      },
+      {
+        "url": "https://www.tomgarcy.com/",
+        "img": "tomgarcy.png"
+      },
+      {
+        "url": "https://www.davidellis.co.uk/",
+        "img": "davidellis.png"
+      },
+      {
+        "url": "https://arcade.la/",
+        "img": "arcadelabs.png"
+      },
+      {
+        "url": "https://www.thewavestudio.it/",
+        "img": "thewave.png"
+      },
+      {
+        "url": "https://www.thepande.com/",
+        "img": "thepande.png"
+      },
+      {
+        "url": "https://www.waycreative.studio/",
+        "img": "waycreative.png"
+      },
+      {
+        "url": "https://fold7.com/",
+        "img": "fold7.png"
+      },
+      {
+        "url": "https://www.carre.studio/",
+        "img": "carrestudio.png"
+      },
+      {
+        "url": "https://www.sublimio.com/",
+        "img": "sublimio.png"
       }
     ]
   }
