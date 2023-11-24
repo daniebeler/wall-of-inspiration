@@ -23,19 +23,23 @@ export default function Home() {
             </a>
           );
         })}
-      </div>
 
-      <h2 className="mt-32 mb-32 text-center text-xl md:text-2xl">
-        Made by{" "}
-        <a
-          href="https://daniebeler.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="underline"
+        <div
+          className="w-full h-full relative aspect-[4/3] bg-[#ecb847] flex justify-center items-center"
         >
-          Daniel Hiebeler
-        </a>
-      </h2>
+          <p className="text-center text-md md:text-xl text-[#1c1d20] font-bold">
+            Made by{" "}
+            <a
+              href="https://daniebeler.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#dc3545]"
+            >
+              Daniel Hiebeler
+            </a>
+          </p>
+        </div>
+      </div>
     </main>
   );
 }
